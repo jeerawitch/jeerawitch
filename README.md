@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Jeerawitch</h2>
 
-<img src="./banner.png" alt="banner.png" width="100%">
+<img src="https://believersias.com/wp-content/uploads/2023/06/Blog-Featured-Images-GIF-7.gif" alt="banner.png" width="100%">
 
 ###
 
